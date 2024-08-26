@@ -1,0 +1,6 @@
+discord.py==2.3.2
+ffmpeg_downloader==0.3.0
+matplotlib==3.9.0
+numpy==1.24.1
+pandas==2.2.2
+selenium==4.21.0
